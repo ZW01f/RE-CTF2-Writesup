@@ -33,5 +33,7 @@ so i run this python code to extrack data :
 
 	
 >>> output
-'CTCTF{never_w0n_thic_:(}' ``` <br>
+'CTCTF{never_w0n_thic_:(}'
+```
+<br>
 flag : CTCTF{never_w0n_thic_:(} 
